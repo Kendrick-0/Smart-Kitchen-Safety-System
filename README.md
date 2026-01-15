@@ -22,7 +22,6 @@ Sistem keamanan dapur cerdas berbasis IoT/Mikrokontroler yang dirancang untuk me
 
 ## 📸 Skema Rangkaian
 ![Wiring Diagram](Rangkaian.jpeg)
-(Pastikan nama file gambar yang Anda upload tadi sama dengan nama di dalam kurung ini)
 
 ## 🚀 Cara Kerja
 1. Sistem membaca sensor setiap 0.5 detik.
